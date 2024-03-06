@@ -1,8 +1,8 @@
 ## Vite + React, Bootstrap 5.3.3 ve React Router DOM kullanılarak yazdığım sitede 'acikyesi.bursa.bel.tr' sitesinden aldığım BURFAŞ verilerini kullanarak basit bir Burfaş websitesi oluşturdum.
 
-### API oluşturmada ChatGPT'den destek alınmıştır.
+### Veriler çekilirken uuid kullanılmıştır
 
-## 'npm run dev' komutu ile sorunsuz çalışmakta olup, Vercel'de çalıştırıldığında görseller ve JSON verileri kaybolmaktadır.
+## "npm i" , "npm install react-router-dom" , "npm i bootstrap@5.3.3" ve "npm run dev" komutlarını terminalde çalıştırdıktan sonra projemi inceleyebilirsiniz.
 
 BURFAŞ verileri;
 
@@ -10,7 +10,13 @@ BURFAŞ verileri;
 
 * [Menü Verileri](https://acikyesil.bursa.bel.tr/dataset/burfas-menu/resource/5e839242-43b9-4d10-af6d-3b711247b7d8)
 
+* [Vercel Link](https://code16burfas.vercel.app/)
 
-<img width="924" alt="Ekran görüntüsü 2024-02-25 213105" src="https://github.com/CerenStrange/bitirmeprojesi/assets/157277848/bbae7a99-59a6-40a2-8630-bea0d26294b0">
-<img width="926" alt="Ekran görüntüsü 2024-02-25 213122" src="https://github.com/CerenStrange/bitirmeprojesi/assets/157277848/83050381-c242-42e4-87d5-76821be7fc0c">
-<img width="925" alt="Ekran görüntüsü 2024-02-25 213136" src="https://github.com/CerenStrange/bitirmeprojesi/assets/157277848/5ca413f4-b451-407c-a7c9-eb8f5f636be1">
+<img width="904" alt="code16burfas" src="https://github.com/CerenStrange/bitirmeprojesi-main/assets/157277848/c8b9be99-dbf4-4909-b824-279d78cda7c8">
+
+<img width="912" alt="code16burfas-tesisler" src="https://github.com/CerenStrange/bitirmeprojesi-main/assets/157277848/48fb19cd-7da8-4c0a-bf72-8accc2d0a474">
+
+<img width="914" alt="code16burfas-menu" src="https://github.com/CerenStrange/bitirmeprojesi-main/assets/157277848/c914d961-61b4-4c7c-a60e-b0d3b6a5c988">
+
+
+
