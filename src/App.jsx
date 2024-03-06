@@ -31,8 +31,8 @@ function App() {
         <p>
           <Link to="https://uretkenakademi.com/"><img src={uretkenakademi} width="100px" /></Link>
           <Link to="https://www.bursa.bel.tr"> <img src={bursabb} width="100px" /></Link>
-          <img src="src/assets/akillisehir.png" width="100px" />
-          <img src="src/assets/akillisehirbursa.png" width="100px" />
+          <img src={akillisehir} width="100px" />
+          <img src={akillisehirbursa} width="100px" />
           <div>
             <Link to="https://www.instagram.com/bursaburfas/"><img src={instagram} width="45px" /></Link>
             <Link to="https://www.facebook.com/bursaburfas/"><img src={facebook} width="45px" /></Link>
